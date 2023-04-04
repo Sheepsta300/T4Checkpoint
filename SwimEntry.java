@@ -1,4 +1,3 @@
-package checkpoint2;
 
 public class SwimEntry extends Entry {
 	
