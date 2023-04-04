@@ -1,4 +1,3 @@
-package checkpoint2;
 
 import java.util.*;
 import java.util.Calendar;
