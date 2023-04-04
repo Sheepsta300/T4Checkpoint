@@ -1,4 +1,3 @@
-package checkpoint2;
 
 public class CycleEntry extends Entry{
 	private String terrain;
