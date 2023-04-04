@@ -1,4 +1,4 @@
-package checkpoint2;
+
 import java.util.Calendar;
 public class Entry {
   private String name;
