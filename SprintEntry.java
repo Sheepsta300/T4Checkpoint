@@ -1,4 +1,3 @@
-package checkpoint2;
 
 public class SprintEntry extends Entry{
 	private int repetitions;
