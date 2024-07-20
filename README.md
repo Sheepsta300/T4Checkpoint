@@ -1,2 +1,2 @@
-# T4Checkpoint
+# Final Assignment for 'Managing Information' Course
 Jordan Woods Checkpoint work
